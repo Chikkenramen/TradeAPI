@@ -8,7 +8,7 @@ url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/map'
 # Define your API key and headers
 headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': '006873f7872d457e9c17d56619533561',  # 🔑 Replace with your CoinMarketCap API key
+    'X-CMC_PRO_API_KEY': '006873f7872d457e9c17d56619533561',  # 나의 API 키
 }
 
 # Optional parameters
